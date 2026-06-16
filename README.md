@@ -1,5 +1,9 @@
 # K2-Management-Internship-Project
 
+![Main Application](Screenshots/coloured-scatterplot.png)
+
+> Python desktop application developed during a Software Engineering Internship at K2 Management.
+
 ## Project Overview
 
 During my internship at K2 Management, I independently developed a Python-based desktop application for visualising and analysing wind turbine operational data.
