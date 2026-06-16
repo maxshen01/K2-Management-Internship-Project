@@ -10,6 +10,17 @@ My objective was to design and implement a modern, scalable solution that could 
 
 Note: This repository serves as a portfolio showcase only. The source code belongs to K2 Management. 
 
+## My Responsibilities
+My responsibilities included:
+
+- Designing the application architecture
+- Developing the PyQt user interface
+- Implementing data processing functionality using Pandas
+- Building interactive visualisation tools using PyQtGraph
+- Optimising performance for large datasets
+- Testing and validating functionality against the legacy C# application
+- Delivering the final production-ready application to stakeholders
+
 ## Results
 
 The completed application delivered measurable improvements over the legacy system:
@@ -26,3 +37,7 @@ The completed application delivered measurable improvements over the legacy syst
 | PyQt       | Desktop GUI development |
 | PyQtGraph  | High performance, dynamic data visualisation |
 | Pandas     | Efficient processing and manipulation of large datasets |
+
+## Key Features
+
+## What I Learned
